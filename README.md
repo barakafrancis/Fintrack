@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27744012/README.md)
 # FinTrack KE 🇰🇪
 
 Personal financial dashboard for Kenyan bank statements. Auto-parses, categorizes, and visualizes all your accounts in one place.
